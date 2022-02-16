@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ohjungsoo92
-- 👀 I’m interested in JavaScript, Python, JAVA
-- 🌱 I’m currently learning Python, JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript, React, Python, JAVA
+- 🌱 I’m currently learning React
 - 📫 ohjungsoo92@gmail.com
 
 <!---
